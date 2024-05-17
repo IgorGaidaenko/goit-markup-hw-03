@@ -32,7 +32,7 @@ a{
     }
     .nav-link:hover,
     .nav-link :focus {
-        color: #404BBF;
+        color: #404bbf;
 
     }
     .address {
@@ -91,7 +91,6 @@ cursor: pointer;
 }
 button:hover {
 	background: #404BBF;
-	box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 }
 
 .section-features {font-family: 'Roboto', sans-serif;
@@ -100,14 +99,7 @@ button:hover {
 }
 
 .visually-hidden {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    margin: -1px;
-    padding: 0;
-    overflow: hidden;
-    border: 0;
-    clip: rect(0 0 0 0);
+    color: #FFFFFF;
 }
 .features-tittle {
     font-family: var(--font-family);
