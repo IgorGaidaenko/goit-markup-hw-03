@@ -51,10 +51,6 @@ color: #2E2F42;
 }
   
 
-
-main {
-}
-
 .section-effective {
     color:#FFFFFF ; 
     background-color: #2E2F42;
@@ -114,12 +110,21 @@ button:hover {
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
-    color: #2E2F42;
+    color: #434455;
 }
 
 .section-team {
-background-color: #F4F4FD;
+background-color: #FFFFFF;}
+
+.teamtitle {
+  font-weight: 700;
+font-size: 36px;
+line-height: 111%;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;  
 }
+
 .team-members {font-family: var(--font-family);
     font-weight: 500;
     font-size: 20px;
@@ -138,9 +143,15 @@ background-color: #F4F4FD;
 }
 
 
-
-.portfolio {
+.portfoliotitle {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
 }
+
 .portfolio-item {font-family: var(--font-family);
     font-weight: 500;
     font-size: 20px;
@@ -157,9 +168,10 @@ background-color: #F4F4FD;
 }
 
 footer {
-    background-color: #2E2F42;
+        background-color: #2E2F42;
+    font-family: "Raleway", sans-serif
 }
-.logo-footer {
+.logofooter {
     font-weight: 700;
     font-size: 18px;
     line-height: 117%;
@@ -167,7 +179,7 @@ footer {
     text-transform: uppercase;
     color: #4D5AE5;
 }
-.logo-footer-part {
+.logofooterpart {
     font-weight: 700;
     font-size: 18px;
     line-height: 117%;
@@ -175,10 +187,10 @@ footer {
     text-transform: uppercase;
     color: #F4F4FD;
 }
-.footer-text {
+.footertext {
     font-weight: 400;
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
-    color: #E7E9FC;
+    color: #F4F4FD;
 }
