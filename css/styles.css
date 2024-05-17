@@ -85,7 +85,7 @@ button:focus {
 	background: #404BBF;
 }
 .buttonclass {
-    
+
 }
 
 
@@ -143,6 +143,7 @@ text-transform: capitalize;
     letter-spacing: 0.02em;
     text-align: center;
     color: var(--slate);
+    background-color: #FFFFFF;
 }
 
 
