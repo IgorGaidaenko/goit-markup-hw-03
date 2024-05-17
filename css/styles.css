@@ -80,13 +80,14 @@ button {
     background-color: #4D5AE5;
 cursor: pointer;
 }
-button:hover {
+button:hover,
+button:focus {
 	background: #404BBF;
 }
 
 .section-features {font-family: 'Roboto', sans-serif;
     color:#434455; 
-    background-color: #FFFFFF;
+    background-color: #F4F4FD;
 }
 
 .visually-hidden {
@@ -117,7 +118,8 @@ font-size: 36px;
 line-height: 111%;
 letter-spacing: 0.02em;
 text-align: center;
-color: #2e2f42;  
+color: #2e2f42;
+text-transform: capitalize; 
 }
 
 .team-members {font-family: var(--font-family);
@@ -127,6 +129,7 @@ color: #2e2f42;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2E2F42;
+    background-color: #FFFFFF;
 }
 .team-possition {font-family: var(--font-family);
     font-weight: 400;
