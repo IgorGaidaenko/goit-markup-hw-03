@@ -172,10 +172,13 @@ text-transform: capitalize;
     color: #434455;
 }
 
+.footermain {
+}
 footer {
         background-color: #2E2F42;
     font-family: "Raleway", sans-serif
 }
+
 .logo-footer {
     font-weight: 700;
     font-size: 18px;
