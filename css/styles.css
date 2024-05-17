@@ -84,9 +84,6 @@ button:hover,
 button:focus {
 	background: #404BBF;
 }
-.buttonclass {
-
-}
 
 
 .section-features {font-family: 'Roboto', sans-serif;
@@ -113,8 +110,12 @@ button:focus {
     color: #434455;
 }
 
+
 .section-team {
 background-color: #F4F4FD}
+
+.teamlist {
+    background-color: #FFFFFF}
 
 .teamtitle {
   font-weight: 700;
@@ -145,9 +146,6 @@ text-transform: capitalize;
     color: var(--slate);
     background-color: #FFFFFF;
 }
-
-
-
 
 
 .portfoliotitle {
