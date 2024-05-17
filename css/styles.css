@@ -110,7 +110,7 @@ button:focus {
 }
 
 .section-team {
-background-color: #FFFFFF;}
+background-color: #F4F4FD;}
 
 .teamtitle {
   font-weight: 700;
@@ -139,6 +139,9 @@ text-transform: capitalize;
     text-align: center;
     color: var(--slate);
 }
+
+
+
 
 
 .portfoliotitle {
@@ -177,7 +180,7 @@ footer {
     text-transform: uppercase;
     color: #4D5AE5;
 }
-.logofooterpart {
+.logo-footer-part {
     font-weight: 700;
     font-size: 18px;
     line-height: 117%;
@@ -185,7 +188,7 @@ footer {
     text-transform: uppercase;
     color: #F4F4FD;
 }
-.footertext {
+.footer-text {
     font-weight: 400;
     font-size: 16px;
     line-height: 150%;
