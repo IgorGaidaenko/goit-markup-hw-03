@@ -42,7 +42,13 @@ body {
     display: block;
   }
   
-  /*------header------*/
+  
+
+
+
+
+
+
   
   .header {
     padding-top: 24px;
@@ -69,12 +75,12 @@ body {
     color: #2e2f42;
   }
   
-  .logo-top-panel {
+  .logomain {
     display: flex;
     align-items: center;
   }
   
-  .top-panel {
+  .main {
     display: flex;
     gap: 40px;
     margin-right: 0;
@@ -119,6 +125,7 @@ body {
     letter-spacing: 0.02em;
     color: #434455;
   }
+
   .address-mail:hover {
     color: #404bbf;
   }
@@ -127,12 +134,20 @@ body {
     color: #404bbf;
   }
   
-  /*-----main-----*/
+  
+
+
+
+
+
+
   
   .section {
     padding-top: 120px;
     padding-bottom: 120px;
   }
+
+
   .section-one {
     padding: 188px 0;
     background: #2e2f42;
@@ -268,7 +283,7 @@ body {
     padding-left: 16px;
   }
   
-  .title-advantages {
+  .title-adv {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -277,7 +292,7 @@ body {
     margin-bottom: 8px;
   }
   
-  .text-advantages {
+  .text-adv {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -335,7 +350,14 @@ body {
     height: 120px;
   }
   
-  /*-----footer-----*/
+  
+
+
+
+
+
+
+
   
   .foot {
     background: #2e2f42;
@@ -349,12 +371,12 @@ body {
     margin-left: 156px;
   }
   
-  .logo-footer {
+  .logo-foot {
     display: inline-block;
     margin-bottom: 16px;
   }
   
-  .logo-web-footer {
+  .logo-web-foot {
     color: #f4f4fd;
   }
   
